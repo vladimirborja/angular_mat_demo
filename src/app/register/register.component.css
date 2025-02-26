@@ -79,3 +79,16 @@ mat-slider {
 mat-radio-button {
   margin-right: 12px;
 }
+
+.dark-mode {
+  background-color: #333;
+  color: white;
+}
+
+.dark-mode mat-form-field {
+  background-color: #444;
+}
+
+.dark-mode input {
+  color: white;
+}
